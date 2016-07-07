@@ -13,10 +13,10 @@ def main():
 def get_results(params):
 
    #Yelp api keys
-   consumer_key = "your key"
-   consumer_secret = "your key"
-   token = "your key"
-   token_secret = "your key"
+   consumer_key = "Lw-2G0GRmJKnYGaz89rUDA"
+   consumer_secret = "caFKWLiZ6XjDuw8cqIrvFywpxzQ"
+   token = "Ef3RCaQaLSijFrS-c5XEIFN0PntCcghR"
+   token_secret = "whrfeVQq9WRDbb7e_FuzPk8NnEQ"
    
    session = rauth.OAuth1Session(
       consumer_key = consumer_key
